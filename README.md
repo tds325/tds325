@@ -1,5 +1,7 @@
 Interested in programming and computational theory
+
 Currently studying Computer Science
+
 Reach me: tds325@nau.edu
 
 <!---
