@@ -1,3 +1,5 @@
+*Ich lerne jeden Tag mehr*
+
 Interested in programming and computational theory
 
 Currently studying Computer Science
